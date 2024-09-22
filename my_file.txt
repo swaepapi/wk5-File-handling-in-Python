@@ -1,0 +1,6 @@
+Hello, my name is FIdel.
+My age is : 24.
+I love Python.
+Python is Fun.
+Here is another line with a number: 100.
+Finally, this is the last appended line.
